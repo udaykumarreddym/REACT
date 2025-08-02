@@ -1,0 +1,22 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "My first react app",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/udaykumarreddym/REACT.git"
+  },
+  "author": "Uday Kumar Reddy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/udaykumarreddym/REACT/issues"
+  },
+  "homepage": "https://github.com/udaykumarreddym/REACT#readme",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  }
+}
