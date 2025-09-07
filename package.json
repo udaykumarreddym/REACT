@@ -2,7 +2,6 @@
   "name": "react",
   "version": "1.0.0",
   "description": "This is react practise",
-  "main": "App.js",
   "scripts": {
     "test": "jest"
   },
@@ -12,7 +11,19 @@
   },
   "author": "Uday",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/udaykumarreddym/REACT/issues"
+  },
+  "homepage": "https://github.com/udaykumarreddym/REACT#readme",
   "devDependencies": {
     "parcel": "^2.15.4"
-  }
+  },
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "browserslist": [
+    "last 10 versions",
+    "last 5 Chrome versions"
+  ]
 }
