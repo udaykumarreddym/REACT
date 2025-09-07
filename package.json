@@ -1,0 +1,14 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "This is react practise",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Uday",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  }
+}
